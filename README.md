@@ -24,8 +24,6 @@ Kocom Wallpad with RS485 for 충북혁신도시센텀클래스
  - 충북혁신도시센텀클래스에 맞게 수정.
  - 'Kocom Wallpad with RS485 for 힐스테이트푸르지오수원' Fork.
 
-(2023-08-03 수정) harwin1 에어컨 소스 반영 ( https://cafe.naver.com/koreassistant/13787 )
-
 [forum]: https://cafe.naver.com/koreassistant
 [github]: https://github.com/clipman/kocom.py
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
