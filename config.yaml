@@ -1,6 +1,6 @@
 ---
 name: Kocom Wallpad with RS485 for 충북혁신도시센텀클래스
-version: 2025.01.27.001
+version: 2025.02.05.001
 slug: kocom_py
 description: Kocom Wallpad for Home Assistant
 arch:
