@@ -1,9 +1,9 @@
-## Hass.io Add-on: Kocom Wallpad with RS485 
+## Hass.io Add-on: Kocom Wallpad
 
 ![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports i386 Architecture][i386-shield]
 
 ## About
-Kocom Wallpad with RS485 for 충북혁신도시센텀클래스
+Kocom Wallpad (충북혁신도시센텀클래스)
 
 ## Installation
 
@@ -16,7 +16,7 @@ Kocom Wallpad with RS485 for 충북혁신도시센텀클래스
 7. share/kocom/ 폴더에 있는 kocom.conf 파일을 본인의 환경에 맞게 수정합니다.
 8. "START" 버튼으로 애드온을 실행합니다.
 
-만일 kocom.py 파일을 수정하시려면 해당 repository를 본인 계정에 fork 후 수정하신 다음에 애드온을 재 설치 해야 합니다
+만일 kocom.py 파일을 수정하시려면 해당 repository를 본인 계정에 fork 후 수정하신 다음에 애드온을 재설치 해야합니다.
 
 [forum]: https://cafe.naver.com/koreassistant
 [github]: https://github.com/clipman/kocom.py
