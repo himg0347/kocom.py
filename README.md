@@ -2,9 +2,6 @@
 
 ![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports i386 Architecture][i386-shield]
 
-## About
-Kocom Wallpad [충북혁신도시센텀클래스]
-
 ## Installation
 
 1. 홈어시스턴트의 Hass.io > ADD-ON STORE에서 Add new repository by URL에 https://github.com/himg0347/kocom.py 를 입력한 다음 ADD 버튼을 누릅니다.
