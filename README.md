@@ -1,9 +1,9 @@
-## Hass.io Add-on: Kocom Wallpad
+## Hass.io Add-on: Kocom Wallpad [충북혁신도시센텀클래스]
 
 ![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports i386 Architecture][i386-shield]
 
 ## About
-Kocom Wallpad (충북혁신도시센텀클래스)
+Kocom Wallpad [충북혁신도시센텀클래스]
 
 ## Installation
 
@@ -19,7 +19,7 @@ Kocom Wallpad (충북혁신도시센텀클래스)
 만일 kocom.py 파일을 수정하시려면 해당 repository를 본인 계정에 fork 후 수정하신 다음에 애드온을 재설치 해야합니다.
 
 [forum]: https://cafe.naver.com/koreassistant
-[github]: https://github.com/clipman/kocom.py
+[github]: https://github.com/himg0347/kocom.py
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
