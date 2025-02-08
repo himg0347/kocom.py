@@ -257,8 +257,8 @@ def parse(hex_data):
     header_h = hex_data[:4]       # header : aa55
     type_h = hex_data[4:7]        # send/ack : 30b(send) 30d(ack)
     seq_h = hex_data[7:8]         # sequence : c(1st) d(2nd)
-    monitor_h = hex_data[8:10]    # monitor : 00(wallpad) 02(KitchenTV)
-    dest_h = hex_data[10:14]      # dest addr : 0100(wallpad0) 0e00(light0) 3600(thermo0) 3601(thermo1) 3602(thermo2) 3603(thermo3)
+    monitor_h = hex_data[8:10]    # monitor : 00(wallpad)
+    dest_h = hex_data[10:14]      # dest addr : 0100(wallpad0) 0e00(light0) 3600(thermo0) 3601(thermo1) 3602(thermo2) 3603(thermo3) 3604(thermo4)
     src_h = hex_data[14:18]       # source addr
     cmd_h = hex_data[18:20]       # command : 3e(query)
     value_h = hex_data[20:36]     # value
