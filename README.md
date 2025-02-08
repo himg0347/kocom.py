@@ -4,16 +4,15 @@
 
 ## Installation
 
-1. 홈어시스턴트의 Hass.io > ADD-ON STORE에서 Add new repository by URL에 https://github.com/himg0347/kocom.py 를 입력한 다음 ADD 버튼을 누릅니다.
-2. ADD-ON STORE 페이지 하단에서 "Kocom Wallpad with RS485" 클릭합니다.
-3. "INSTALL" 버튼을 누르면 애드온이 설치됩니다. 최대 약 10분 정도 소요. 
-4. INSTALL 버튼위에 설치 애니메이션이 동작하는데 이것이 멈추더라도 REBUILD, START 버튼이 나타나지 않는 경우가 있습니다.
-5. 이 애드온은 이미지를 내려받는 것이 아니라 직접 여러분의 Hassio에서 이미지를 만듭니다.
-6. INSTALL 버튼을 누른다음 설치 애니메이션이 실행되면 제대로 설치중인 것입니다.
-7. share/kocom/ 폴더에 있는 kocom.conf 파일을 본인의 환경에 맞게 수정합니다.
-8. "START" 버튼으로 애드온을 실행합니다.
+1. 홈 어시스턴트의 '애드온 스토어'에서 '저장소'를 누르고 URL 항목에 'https://github.com/himg0347/kocom.py' 입력 후 '추가하기' 버튼을 누릅니다.
+2. 애드온 스토어 페이지 하단에서 "Kocom Wallpad" 클릭합니다.
+3. '설치하기' 버튼을 누르면 애드온이 설치됩니다. (최대 약 1분 소요)
+4. 이 애드온은 이미지를 내려받는 것이 아니라 직접 여러분의 홈 어시스턴트에서 이미지를 만듭니다.
+5. '설치하기' 버튼을 누르고 설치 애니메이션이 실행되면 제대로 설치 중인 것입니다.
+6. share/kocom/ 폴더에 있는 kocom.conf 파일을 본인의 환경에 맞게 수정합니다.
+7. '시작하기' 버튼으로 애드온을 실행합니다.
 
-만일 kocom.py 파일을 수정하시려면 해당 repository를 본인 계정에 fork 후 수정하신 다음에 애드온을 재설치 해야합니다.
+■ 만일 kocom.py 파일을 수정하시려면 해당 repository를 본인 계정에 fork 후 수정하신 다음에 애드온을 재설치 해야 합니다.
 
 [forum]: https://cafe.naver.com/koreassistant
 [github]: https://github.com/himg0347/kocom.py
