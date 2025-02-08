@@ -1,8 +1,8 @@
 ---
-name: Kocom Wallpad [충북혁신도시센텀클래스]
-version: 2025.02.08.001
+name: Kocom Wallpad
+version: 2025.02.09.001
 slug: kocom_py
-description: RS485 Type
+description: 충북혁신도시센텀클래스
 arch:
   - armhf
   - armv7
@@ -16,8 +16,8 @@ uart: true
 map:
   - share:rw
 options:
-  share/kocom/kocom.conf 설정파일: true
-  share/kocom/kocom.py 실행파일: true
+  share/kocom/kocom.conf 설정파일: false
+  share/kocom/kocom.py 실행파일: false
 schema:
   share/kocom/kocom.conf 설정파일: bool
   share/kocom/kocom.py 실행파일: bool
